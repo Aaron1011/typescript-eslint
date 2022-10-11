@@ -6669,9 +6669,9 @@ dotenv@~10.0.0:
   integrity sha512-rlBi9d8jpv9Sf1klPjNfFAuWDjKLwTIJJ/VxtoTwIR6hnZxcEOQCZg2oIL3MWBYw5GpUDKOEnND7LXTbIpQ03Q==
 
 downlevel-dts@>=0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/downlevel-dts/-/downlevel-dts-0.10.0.tgz#d2be7b4408a1f9eb3a39e15a361f8ea4f175facc"
-  integrity sha512-AZ7tnUy4XJArsjv6Bcuivvxx+weMvOGHF6seu7e7PVOqMDHMSlfgMl1kt+F4Y2+5TmDwKWHOdimM1DZKihQs8Q==
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/downlevel-dts/-/downlevel-dts-0.10.1.tgz#2f0a09f0e63f43c49da78897edb1bb292c8769cf"
+  integrity sha512-bwY63Y0Gfwotcly4vU6rB66m5txvfQzDGd1Gai9E9orqsDIswXKjkdR18Tm6TidnAk9+J5N68a5VMDO2bsQCKQ==
   dependencies:
     semver "^7.3.2"
     shelljs "^0.8.3"
